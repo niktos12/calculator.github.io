@@ -18,6 +18,15 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     .display{
         width: 100%;
+        .clear{
+            width: 90%;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+            height: 50px;
+            margin-left: 20px;
+        }
         .numbers{
             display: flex;
             align-items: center;
